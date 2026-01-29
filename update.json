@@ -1,5 +1,12 @@
 [
     {
+        "version": "1.2.0",
+        "release_date": "29/01/2026",
+        "download_url": "https://drive.google.com/uc?export=download&id=12of2NqLVeMANYLjLjok6uvxLaNFBEFFs",
+        "zip_password": "pccc2026",
+        "changelog": "- Cập nhật kiểm tra thêm dữ liệu trùng ở Cơ Sở.\n- Bổ sung lĩnh vực cơ sở và chi tiết loại hình cơ sở trong mục Cơ sở"
+    }
+    {
         "version": "1.1.0",
         "release_date": "29/01/2026",
         "download_url": "https://drive.google.com/uc?export=download&id=12of2NqLVeMANYLjLjok6uvxLaNFBEFFs",
@@ -8,4 +15,5 @@
     }
     
 ]
+
 

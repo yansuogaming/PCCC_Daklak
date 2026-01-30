@@ -1,41 +1,12 @@
 [
     {
-        "version": "1.3.2",
-        "release_date": "30/01/2026",
-        "download_url": "https://drive.google.com/uc?export=download&id=12of2NqLVeMANYLjLjok6uvxLaNFBEFFs",
-        "zip_password": "pccc2026",
-        "changelog": "- Thay đổi lại phần cập nhật tự động bị lỗi"
-    },
-    {
         "version": "1.3.1",
         "release_date": "30/01/2026",
-        "download_url": "https://drive.google.com/uc?export=download&id=12of2NqLVeMANYLjLjok6uvxLaNFBEFFs",
-        "zip_password": "pccc2026",
-        "changelog": "- Thay đổi lại phần cập nhật tự động bị lỗi"
-    },
-    {
-        "version": "1.3.0",
-        "release_date": "30/01/2026",
-        "download_url": "https://drive.google.com/uc?export=download&id=12of2NqLVeMANYLjLjok6uvxLaNFBEFFs",
-        "zip_password": "pccc2026",
-        "changelog": "- Cập nhật hiển cửa sổ dữ liệu trùng khi nhập từ file excel.\n- Cập nhật và thay đổi giao diện Xử lý trung lặp dữ liệu.\n- Xoá bỏ nút gộp tất cả khi chọn Xã, Phường có nhiều trụ sở.\n- Bổ sung thêm hiển thị loại hình chi tiết và bảo hiểm.\n- Nhập và xuất excel thêm 2 trường loại hình chi tiết và bảo hiểm.\n- Bỏ cột tỉ lệ %tốt và xấu ở mục Báo cáo.\n- Chỉnh lại bố cục hiển thị ở cột Thông tin cơ sở khi thêm 2 mục loại hình chi tiết và bảo hiểm.\n- Bản cập nhật sau sẽ sửa lỗi bên mục Phương tiện sẽ là phiên bản 1.4.0"
-    },
-    {
-        "version": "1.2.0",
-        "release_date": "29/01/2026",
-        "download_url": "https://drive.google.com/uc?export=download&id=12of2NqLVeMANYLjLjok6uvxLaNFBEFFs",
-        "zip_password": "pccc2026",
-        "changelog": "- Cập nhật kiểm tra thêm dữ liệu trùng ở Cơ Sở.\n- Bổ sung lĩnh vực cơ sở và chi tiết loại hình cơ sở trong mục Cơ sở"
-    },
-    {
-        "version": "1.1.0",
-        "release_date": "29/01/2026",
-        "download_url": "https://drive.google.com/uc?export=download&id=12of2NqLVeMANYLjLjok6uvxLaNFBEFFs",
-        "zip_password": "pccc2026",
-        "changelog": "Thêm tính năng tự động cập nhật."
-    }
-    
+        "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.3.1/Update_Package_v1.3.1.zip",
+        "changelog": "- Thay đổi lại phần cập nhật tự động bị lỗi.\n- Cập nhật thay đổi code để hoạt động cập nhật tự động"
+    }, 
 ]
+
 
 
 

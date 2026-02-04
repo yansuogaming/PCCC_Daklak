@@ -1,5 +1,11 @@
 [
     {
+      "version": "1.4.1",
+      "release_date": "04/02/2026",
+      "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.4.1/Update_Package_v1.4.1.zip",
+      "changelog": "Nội dung cập nhật phiên bản 1.4.1:\n- Sửa lỗi khi đăng nhập tài khoản không hiển thị dữ liệu mục Cơ sở.\n- Xoá bỏ cột \"Tốt\" trong mục Thống kê.\n- Sửa lại text: Hết hạn BD thành Cơ sở đến hạn BD (kỳ)."
+    },
+    {
       "version": "1.4.0",
       "release_date": "04/02/2026",
       "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.4.0/Update_Package_v1.4.0.zip",
@@ -18,5 +24,6 @@
         "changelog": "- Thay đổi lại phần cập nhật tự động bị lỗi.\n- Cập nhật thay đổi code để hoạt động cập nhật tự động"
     }
 ]
+
 
 

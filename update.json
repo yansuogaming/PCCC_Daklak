@@ -1,5 +1,11 @@
 [
     {
+      "version": "1.4.0",
+      "release_date": "04/02/2026",
+      "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.4.0/Update_Package_v1.4.0.zip",
+      "changelog": "Nội dung cập nhật phiên bản 1.4.0:\n\n- Thiết bị: bổ sung trường Hãng/Model, lưu đúng cột trong CSDL; hiển thị và hỗ trợ đầy đủ khi Nhập Excel và Xuất Excel.\n\n- Thiết bị: thay đổi và chuẩn hóa trường ngày:\n  + Đổi Ngày KĐ / Hạn thành Ngày sử dụng (Ngày SD) và Ngày bảo dưỡng (Ngày BD).\n  + Áp dụng thống nhất cho form nhập, danh sách, bộ lọc, nhập Excel, xuất Excel và báo cáo.\n\n- Thiết bị: hỗ trợ nhập nhiều thiết bị cùng lúc cho một cơ sở:\n  + Thêm popup “Nhập nhiều thiết bị cho Cơ sở”.\n  + Cho phép thêm, sửa, xoá nhiều thiết bị trong cùng một giao diện.\n  + Có thể tải sẵn danh sách thiết bị hiện có của cơ sở để chỉnh sửa nhanh.\n\n- Thiết bị: hỗ trợ chế độ xem “Gộp theo cơ sở”:\n  + Gộp toàn bộ thiết bị của một cơ sở thành một dòng duy nhất.\n  + Các cột hiển thị dạng danh sách: Loại thiết bị, Tên thiết bị, Hãng/Model, Số lượng, Vị trí, Ngày SD, Ngày BD.\n  + Cho phép chọn ký tự ngăn cách danh sách (\" | \" hoặc \", \").\n\n- Thiết bị: hỗ trợ double-click khi đang ở chế độ “Gộp theo cơ sở”:\n  + Double click vào dòng cơ sở sẽ tự động mở popup “Nhập nhiều thiết bị cho Cơ sở”.\n  + Tự động chọn đúng cơ sở và tải toàn bộ thiết bị hiện có để chỉnh sửa.\n\n- Thiết bị: cập nhật logic kiểm tra trùng theo (Cơ sở + Loại thiết bị + Tên thiết bị + Vị trí):\n  + Nếu tất cả các trường quan trọng (Số lượng, Hãng/Model, Ngày SD, Ngày BD, Ghi chú, …) trùng khớp 100% ⇒ hiển thị popup “Trùng 100%” và không cho lưu.\n  + Nếu chỉ cần khác ít nhất 1 trường ⇒ mở Dialog so sánh khác biệt để người dùng quyết định cập nhật.\n\n- Thiết bị: nâng cấp Import Excel:\n  + Cho phép nhập nhiều thiết bị trong một dòng Excel (dạng list).\n  + Các cột hỗ trợ dạng list: Loại thiết bị, Tên thiết bị, Hãng/Model, Số lượng, Vị trí.\n  + Tự động tách thành nhiều thiết bị khi import.\n  + Nếu dữ liệu list không khớp số lượng phần tử ⇒ bỏ dòng và báo lỗi.\n  + Hỗ trợ nhiều định dạng ngày: dd/mm/yyyy, dd-mm-yyyy, yyyy-mm-dd.\n\n- Xuất Excel:\n  + Thêm tuỳ chọn “Gộp thiết bị theo Cơ sở (Báo cáo tổng hợp)” để gom nhiều thiết bị của cùng cơ sở vào một ô.\n  + Nội dung tổng hợp bao gồm: Loại – Tên – Vị trí – Số lượng – Ngày SD – Ngày BD – Hãng/Model – Ghi chú.\n  + Tự động đồng bộ trạng thái “Gộp theo cơ sở” từ màn hình danh sách sang hộp thoại xuất.\n\n- Tối ưu dữ liệu: thay đổi cấu trúc bảng và loại bỏ các trường không còn sử dụng; bổ sung index phục vụ tìm kiếm, lọc và kiểm tra trùng.\n\n- Cơ sở: bổ sung thông tin Lực lượng PCCC & CNCH (loại lực lượng) và số lượng thành viên; cho phép cập nhật trực tiếp khi nhập hoặc chỉnh sửa thiết bị.\n\n- Cơ sở: sửa lỗi hiển thị dữ liệu không đúng trang/phân trang khi lọc và tìm kiếm.\n\n- UI/UX:\n  + Khi click vào ô chọn cơ sở, hệ thống tự động bôi đen nội dung để nhập hoặc xoá nhanh.\n  + Chuẩn hóa cấu hình cột Treeview, giữ đúng độ rộng cột, không bị tự động co giãn.\n\n- Báo cáo & thống kê:\n  + Cập nhật lại tên cột Ngày KĐ và Hạn thành Ngày SD và Ngày BD để đồng bộ với thay đổi ở Thiết bị."
+    },
+    {
         "version": "1.3.2",
         "release_date": "30/01/2026",
         "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.3.2/Update_Package_v1.3.2.zip",
@@ -12,4 +18,5 @@
         "changelog": "- Thay đổi lại phần cập nhật tự động bị lỗi.\n- Cập nhật thay đổi code để hoạt động cập nhật tự động"
     }
 ]
+
 

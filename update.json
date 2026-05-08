@@ -1,5 +1,11 @@
 [
     {
+      "version": "1.4.2",
+      "release_date": "08/05/2026",
+      "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.4.2/Update_Package_v1.4.2.zip",
+      "changelog": "Nội dung cập nhật phiên bản 1.4.2:\n- Cập nhật thêm mục Sao lưu & Khôi phục dữ lieu, sẽ sao lưu file sql bao gồm tất cả các mục.\n- Phiên bản sau sẽ tối ưu phần mềm hoạt động mượt mà và trơn tru."
+    },
+    {
       "version": "1.4.1",
       "release_date": "04/02/2026",
       "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.4.1/Update_Package_v1.4.1.zip",

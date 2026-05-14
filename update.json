@@ -1,5 +1,11 @@
 [
     {
+      "version": "1.5.0",
+      "release_date": "14/05/2026",
+      "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.0/Update_Package_v1.5.0.zip",
+      "changelog": "Nội dung cập nhật phiên bản 1.5.0:\n- Tối ưu hoạt động của phần mềm, tách code ra để hoạt động ổn định hơn.\n- Bổ sung thêm loại thiết bị Xe ô tô vận chuyển hàng cháy nổ và thêm ngày kiểm tra và Kì kiểm tra tiếp theo.\n- Thêm tab Các loại giấy tờ khác của mục Văn bản pháp lý.\n- Tối ưu và bổ sung thêm các cột mới gồm: Lực lượng PCCC, số lượng thành viên, ngày kiểm tra và kỳ kiểm tra tiếp theo của mục Thiết bị PCCC.\n- Bổ sung cả nhập và xuất Excel cho tab Các loại giấy tờ khác."
+    },
+    {
       "version": "1.4.2",
       "release_date": "08/05/2026",
       "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.4.2/Update_Package_v1.4.2.zip",

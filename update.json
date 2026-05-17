@@ -1,4 +1,10 @@
 [
+     {
+      "version": "1.5.2",
+      "release_date": "17/05/2026",
+      "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.2/Update_Package_v1.5.2.zip",
+      "changelog": "Nội dung cập nhật phiên bản 1.5.2:\n- Sửa lỗi tìm cơ sở trong mục Thiết bị.\n - Sửa lỗi khôi phục dữ liệu."
+    },
     {
       "version": "1.5.1",
       "release_date": "17/05/2026",

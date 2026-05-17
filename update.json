@@ -1,5 +1,11 @@
 [
     {
+      "version": "1.5.1",
+      "release_date": "17/05/2026",
+      "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.1/Update_Package_v1.5.1.zip",
+      "changelog": "Nội dung cập nhật phiên bản 1.5.1:\n- Sửa lỗi kiểm tra trùng dữ liệu của các mục điển hình là mục Cơ sở.\n- Thêm Kỳ bảo dưỡng tiếp theo và loại bỏ thiết bị phương tiện chở hàng nguy hiểm ở mục Thiết bị.\n- Thêm nút xoá tất cả trong thêm nhiều thiết bị của 1 cơ sở.\n- Thêm mục Phương tiện chở hàng nguy hiểm gồm có lọc, nhập và xuất excel, Xoá tất cả.\n- Sửa lại các đoạn text cảnh báo khi ấn xoá.\n- Sửa lại file mẫu của Thiết bị khi ấn Nhập excel
+    },
+    {
       "version": "1.5.0",
       "release_date": "14/05/2026",
       "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.0/Update_Package_v1.5.0.zip",

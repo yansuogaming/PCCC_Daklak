@@ -1,5 +1,11 @@
 [
      {
+       "version": "1.5.4",
+       "release_date": "22/06/2026",
+       "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.4/Update_Package_v1.5.4.zip",
+       "changelog": "Nội dung cập nhật phiên bản 1.5.4:\n- Đổi tên loại thiết bị 'Họng nước' thành 'Hệ thống cấp nước chữa cháy'.\n- Bỏ điều kiện bắt buộc nhập 'Tên thiết bị' trong mục Thiết bị PCCC.\n- Tách riêng Nhóm 1 (1 năm/lần) và Nhóm 2 (2 năm/lần) để lựa chọn trong Phụ lục II của mục Kiểm tra an toàn.\n- Bổ sung chức năng 'Nhập thêm từ sao lưu' cho phép nhập dữ liệu từ file sao lưu của máy khác mà không ghi đè dữ liệu hiện có.\n- Cập nhật giao diện Sao lưu & Khôi phục dữ liệu.\n- Đổi tên và cập nhật mô tả chức năng 'Khôi phục toàn bộ' để làm rõ việc ghi đè toàn bộ dữ liệu hiện tại khi phục hồi từ bản sao lưu."
+     },
+     {
       "version": "1.5.3",
       "release_date": "17/05/2026",
       "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.3/Update_Package_v1.5.3.zip",

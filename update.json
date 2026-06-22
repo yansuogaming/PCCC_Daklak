@@ -1,5 +1,11 @@
 [
      {
+       "version": "1.5.5",
+       "release_date": "22/06/2026",
+       "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.5/Update_Package_v1.5.5.zip",
+       "changelog": "Nội dung cập nhật phiên bản 1.5.5:\n- Bỏ trường 'Ngày kiểm tra' khỏi mục Cơ sở quản lý vì nội dung này đã được quản lý tại mục Kiểm tra an toàn.\n- Khi chọn 'UBND cấp xã' tại Cơ quan quản lý trong mục Cơ sở quản lý, tự động ẩn các trường Lĩnh vực, Loại hình chi tiết, Phụ lục và Nhóm nguy hiểm.\n- Với cơ sở do UBND cấp xã quản lý, hệ thống không yêu cầu nhập Lĩnh vực, Loại hình chi tiết, Phụ lục và Nhóm nguy hiểm.\n- Cập nhật lưu dữ liệu và nhập/xuất Excel của mục Cơ sở quản lý để phù hợp với cơ sở do UBND cấp xã quản lý.\n- Bỏ hiển thị và lọc theo Ngày kiểm tra trong danh sách Cơ sở quản lý."
+     }
+     {
        "version": "1.5.4",
        "release_date": "22/06/2026",
        "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.4/Update_Package_v1.5.4.zip",

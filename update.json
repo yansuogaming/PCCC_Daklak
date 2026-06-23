@@ -1,5 +1,11 @@
 [
      {
+       "version": "1.5.6",
+       "release_date": "23/06/2026",
+       "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.6/Update_Package_v1.5.6.zip",
+       "changelog": "Nội dung cập nhật phiên bản 1.5.6:\n- Cập nhật mục Quản lý phương tiện chữa và CNCH: thay trường 'Tên chủ phương tiện' thành 'Danh mục Đội KV quản lý'.\n- Bổ sung nút 'Danh mục Đội KV' riêng trong form phương tiện để chọn nhanh đội khu vực quản lý.\n- Cho phép mục phương tiện sử dụng chung danh mục Đội KV với mục Cơ sở quản lý.\n- Khi nhập số khu vực hoặc chọn từ danh mục, hệ thống tự chuẩn hóa thành tên Đội KV tương ứng.\n- Cập nhật hiển thị danh sách, bộ lọc và nhập/xuất Excel của mục phương tiện theo trường 'Đội KV quản lý'.\n- Vẫn hỗ trợ import các file Excel cũ có cột 'Tên chủ phương tiện' để tránh lỗi dữ liệu cũ."
+     },
+     {
        "version": "1.5.5",
        "release_date": "22/06/2026",
        "download_url": "https://github.com/yansuogaming/PCCC_Daklak/releases/download/v1.5.5/Update_Package_v1.5.5.zip",
